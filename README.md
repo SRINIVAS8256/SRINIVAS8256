@@ -1,16 +1,15 @@
 <!--
 PROFILE README SETUP
-1. Create a PUBLIC repository named exactly YOUR_GITHUB_USERNAME.
-2. Replace every YOUR_GITHUB_USERNAME below with your actual GitHub username.
-3. Add this README.md to the repository root.
-4. Add .github/workflows/snake.yml from this pack.
-5. In Settings → Actions → General, allow workflows to write to the repository.
-6. Run "Generate contribution snake" from Actions once.
+1. Create a PUBLIC repository named exactly SRINIVAS8256.
+2. Add this README.md to the repository root.
+3. Add .github/workflows/snake.yml from your pack.
+4. In Settings → Actions → General, allow workflows to write to the repository.
+5. Run "Generate contribution snake" from Actions once.
 -->
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/SRINIVAS8256">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Srinivas+DR+%F0%9F%91%8B;AI%2FML+%7C+Data+Science+%7C+Python;Building+intelligent%2C+data-driven+systems;From+raw+data+to+production-minded+AI" alt="Typing SVG"/>
 </a>
 
@@ -18,9 +17,9 @@ PROFILE README SETUP
 
 <a href="https://leetcode.com/u/Srinivas_DR_8256/"><img src="https://img.shields.io/badge/LeetCode-Srinivas__DR__8256-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="mailto:srinivasdr25@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Building%20in%20public-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://github.com/SRINIVAS8256"><img src="https://img.shields.io/badge/GitHub-Building%20in%20public-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=SRINIVAS8256&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
 </div>
 
@@ -130,20 +129,20 @@ Explore parameter-efficient adaptation of a pretrained language model for a clea
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats"/>
+<a href="https://github.com/SRINIVAS8256">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SRINIVAS8256&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages"/>
+<a href="https://github.com/SRINIVAS8256">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIVAS8256&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages"/>
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=SRINIVAS8256&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SRINIVAS8256&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
 
 </div>
 
@@ -153,7 +152,7 @@ Explore parameter-efficient adaptation of a pretrained language model for a clea
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/SRINIVAS8256/SRINIVAS8256/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake"/>
 
 </div>
 
@@ -192,7 +191,7 @@ Explore parameter-efficient adaptation of a pretrained language model for a clea
 
 <a href="mailto:srinivasdr25@gmail.com"><img src="https://img.shields.io/badge/Email-srinivasdr25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://leetcode.com/u/Srinivas_DR_8256/"><img src="https://img.shields.io/badge/LeetCode-Srinivas__DR__8256-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://github.com/SRINIVAS8256"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 
 </div>
 
