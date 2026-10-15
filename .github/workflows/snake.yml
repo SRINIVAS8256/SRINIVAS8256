@@ -15,10 +15,11 @@ jobs:
       - name: Generate contribution graph snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name:SRINIVAS8256
+          github_user_name: SRINIVAS8256
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - name: Publish SVGs to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
