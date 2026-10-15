@@ -140,9 +140,6 @@ Explore parameter-efficient adaptation of a pretrained language model for a clea
 
 <img src="https://streak-stats.demolab.com?user=SRINIVAS8256&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SRINIVAS8256&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
 
 </div>
 
@@ -152,7 +149,11 @@ Explore parameter-efficient adaptation of a pretrained language model for a clea
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SRINIVAS8256/SRINIVAS8256/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SRINIVAS8256/SRINIVAS8256/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SRINIVAS8256/SRINIVAS8256/output/github-contribution-grid-snake.svg"/>
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/SRINIVAS8256/SRINIVAS8256/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
